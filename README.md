@@ -26,6 +26,7 @@ This repository contains exercises and implementations from each chapter of the 
 | `arraysWithGenerics` | Arrays, generics, Reduce, Find, Sum operations |
 | `generics` | Generic types, constraints, type parameters |
 | `templating` | HTML templating, rendering, file-based templates |
+| `go-graceful-shutdown` | HTTP server, graceful shutdown, signal handling |
 
 ## Running Tests
 
