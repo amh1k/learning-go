@@ -23,6 +23,9 @@ This repository contains exercises and implementations from each chapter of the 
 | `select` | `select` statements, racing URLs, timeouts |
 | `sync` | `sync` package, WaitGroups, mutexes |
 | `context` | Context package, cancellation, deadlines |
+| `arraysWithGenerics` | Arrays, generics, Reduce, Find, Sum operations |
+| `generics` | Generic types, constraints, type parameters |
+| `templating` | HTML templating, rendering, file-based templates |
 
 ## Running Tests
 
